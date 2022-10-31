@@ -1,5 +1,5 @@
   /*
- * Fucknig around with mixed ints and doubles
+ * Coding around with mixed ints and doubles
  */
  #include <iostream>
  using namespace std;
