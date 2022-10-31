@@ -17,7 +17,7 @@
 
     ++count;
 
-    cout << "There's a leap year in " << number << ", you assjaq" << endl;
+    cout << "There's a leap year in " << number << ", you program user" << endl;
 
   }
 
@@ -27,7 +27,7 @@
 
   cout << "Wow my brain hurts, lets see if that worked: " << endl;
   cout << "Here's how many years there were: " << count << endl;
-  cout << "|a73r n00b" << endl;
+  cout << "|a73r d00d" << endl;
 
       return 0;
 }
