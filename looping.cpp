@@ -1,15 +1,15 @@
 /*
- * what the hell is a loop function? see here now youngin'!
+ * Curious to learn about that loop function? See here now youngin'!
  */
  #include <iostream>
  using namespace std;
 
  int main() {
-    int product = 1;      //makes the sum integer and dubs it 0 to start
+    int product = 1;      //makes the sum integer and dubs it 1 to start
     int upperbound, start;   //makes a variable that sets the ceiling to avoid infinity
 
-    //demand upperbound from the meatsack at the keys
-    cout << "Give me your upperbounds! EEEwwwwww! no, not those upperbounds. The number you want to go up to..... Perv! " << endl;
+    //demand upperbound from the user at the keys
+    cout << "What would you like the highest number to be?" << endl;
     cin >> upperbound;
     cout << "Fine, where should I start? ";
     cin >> start;
@@ -33,7 +33,7 @@
       //number = number + 7;            //increments by 7
     }
 
-    //fiber time, let's output this log!
+    // Printing time, lets clog that screen with results!!
     cout << "The product from " << start << " to " << upperbound << " is " << product << endl;
 
 
